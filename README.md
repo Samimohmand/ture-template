@@ -30,3 +30,9 @@ function sum(){
 <body>Hi i am samikhan</body>
 </html>
 ```
+
+
+| First Name    | LastName |
+| ----------- | ----------- |
+| samihkan     | Mohmand     |
+| zabikhan   | Mohmand        |
