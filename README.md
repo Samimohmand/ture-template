@@ -19,3 +19,14 @@ click [here](https://samimohmand.github.io/ture-template/) to see the demo
 
 
 
+```javascript
+function sum(){
+    console.log(sum);
+}
+
+```
+```html
+<html>
+<body>Hi i am samikhan</body>
+</html>
+```
